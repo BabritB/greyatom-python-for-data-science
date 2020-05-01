@@ -1,6 +1,6 @@
 # --------------
 #Code starts here
-
+# Author- Babrit
 #Function to read file
 def read_file(path):
     
