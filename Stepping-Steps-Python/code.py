@@ -1,6 +1,6 @@
 # --------------
 # Code starts here
-
+# Author- Babrit
 # Create the lists 
 class_1=['Geoffrey Hinton','Andrew Ng','Sebastian Raschka','Yoshua Bengio']
 class_2=['Hilary Mason','Carla Gentry','Corinna Cortes']
